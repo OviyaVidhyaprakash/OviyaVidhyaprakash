@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OviyaVidhyaprakash
 - 👀 I’m interested in Learning and coding
-- 🌱 I’m currently learning Full Stack web developmet
+- 🌱 I’m currently learning Full Stack web development 
   
 
 <!---
